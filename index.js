@@ -3,7 +3,7 @@ const messages = [
         name: "Shikamaru???",
         nameColor: "#6fb2e5",
         prefix: "Владелец", 
-        avatar: "", 
+        avatar: "img/Shika.jpg", 
         text: "Добро ищешь? Ну так иди в церковь",
         time: "1:24:27 PM",
         reply: null
@@ -12,7 +12,7 @@ const messages = [
         name: "Umka",
         nameColor: "#e74c3c",
         prefix: "Водалаз", 
-        avatar: "", 
+        avatar: "img/Umka.jlg", 
         text: "Montagem amostra amigo",
         time: "1:24:07 PM",
         reply: null
@@ -21,7 +21,7 @@ const messages = [
         name: "йиксовокаяМ",
         nameColor: "#2ecc71",
         prefix: "аназаГ рыС",
-        avatar: "",
+        avatar: "img/Mayak.jpg",
         text: "Агромні ділда",
         time: "1:24:37 PM",
         reply: null
@@ -30,7 +30,7 @@ const messages = [
         name: "Жоски хоумлендер",
         nameColor: "#f1c40f",
         prefix: "Хохлы-----я",
-        avatar: "",
+        avatar: "img/Home.jpg",
         text: "Мам я хочу быть как Газан",
         time: "1:24:42 PM",
         reply: null
@@ -39,7 +39,7 @@ const messages = [
         name: "Itz_Tensh1 ♡ | #Abbys",
         nameColor: "#3498db",
         prefix: "Мамбо старший",
-        avatar: "",
+        avatar: "img/Tensh1.jpg",
         text: "Ооо. БУХАНКА КИРПИЧА, ебля, я скучал за этой штукой",
         time: "1:27:80 PM",
         reply: null
@@ -48,7 +48,7 @@ const messages = [
         name: "Астрал/Шляпа",
         nameColor: "#3498db",
         prefix: "Владелец",
-        avatar: "",
+        avatar: "img/Astral.jpg",
         text: "Гб",
         time: "1:35:27 PM",
         reply: { name: "Itz_Tensh1 ♡ | #Abbys", text: "Ооо. БУХАНКА КИРПИЧА, ебля..." }
@@ -59,8 +59,8 @@ const messages = [
         prefix: "Бурмалденс",
         prefixBg: "#1c3519",  
         prefixColor: "#4ebd57", 
-        avatar: "",
-        text: "📊 Голосование за бан Itz_Tensh1 ♡ | #Abbys началось\nСостояние: до 5 голосов, голосовать могут все участники\n\n— Команды \"за бан @8102603814\" / \"против бана @8102603814\"",
+        avatar: "img/Iris.jpg",
+        text: "📊 Голосование за бан Itz_Tensh1 ♡ | #Abbys началось\nСостояние: до 5 голосов, голосовать могут все участники\n\n— Команды \"за бан @1614667859\" / \"против бана @1614667859\"",
         time: "10:22:35 PM",
         reply: { name: "Астрал/Шляпа", text: "Гб" }, 
         buttons: [
