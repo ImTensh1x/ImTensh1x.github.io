@@ -12,7 +12,7 @@ const messages = [
         name: "Umka",
         nameColor: "#e74c3c",
         prefix: "Водалаз", 
-        avatar: "img/Umka.jlg", 
+        avatar: "img/Umka.jpg", 
         text: "Montagem amostra amigo",
         time: "1:24:07 PM",
         reply: null
